@@ -1,4 +1,4 @@
-# Roue de guerre
+# WarWheel
 
 Prototype jouable de la mécanique de roue : deux camps se battent à l'intérieur d'un immense anneau. Pousser le front fait tourner la roue, et le premier camp qui lui fait faire le nombre de tours fixé gagne.
 
